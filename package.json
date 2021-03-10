@@ -1,0 +1,77 @@
+{
+  "_from": "git+https://github.com/rockabox/ng-lodash.git#0.5.0",
+  "_id": "ng-lodash@0.5.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/ng-lodash",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "ng-lodash@git+https://github.com/rockabox/ng-lodash.git#0.5.0",
+    "name": "ng-lodash",
+    "escapedName": "ng-lodash",
+    "rawSpec": "git+https://github.com/rockabox/ng-lodash.git#0.5.0",
+    "saveSpec": "git+https://github.com/rockabox/ng-lodash.git#0.5.0",
+    "fetchSpec": "https://github.com/rockabox/ng-lodash.git",
+    "gitCommittish": "0.5.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/rockabox/ng-lodash.git#49ff5b90ba72ad38b6f5e6c2b0ec29f92a0c6641",
+  "_spec": "ng-lodash@git+https://github.com/rockabox/ng-lodash.git#0.5.0",
+  "_where": "/home/devops/go/src/web-ui",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/rockabox/ng-lodash/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An Angular module wrapper for lodash",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bower-task": "~0.4.0",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-contrib-uglify": "~0.7.0",
+    "grunt-jscs": "~1.5.0",
+    "grunt-karma": "~0.10.1",
+    "grunt-lodash": "~0.5.0",
+    "grunt-ngmin": "~0.0.3",
+    "jasmine-core": "~2.2.0",
+    "karma": "~0.12.16",
+    "karma-jasmine": "~0.3.1",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "load-grunt-tasks": "~3.1.0",
+    "lodash-cli": "~4.12.0"
+  },
+  "engines": {
+    "node": "~0.10.0"
+  },
+  "homepage": "https://github.com/rockabox/ng-lodash",
+  "keywords": [
+    "nglodash",
+    "angular",
+    "lodash"
+  ],
+  "license": "MIT",
+  "main": "build/ng-lodash.js",
+  "name": "ng-lodash",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rockabox/ng-lodash.git"
+  },
+  "scripts": {
+    "test": "grunt dist"
+  },
+  "version": "0.5.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": "~0.10.0"
+      },
+      "pkgid": "ng-lodash@0.5.0"
+    }
+  ]
+}
